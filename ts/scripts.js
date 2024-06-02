@@ -1,3 +1,2 @@
 "use strict";
-const person = 'Ana';
-console.log(person);
+alert(`ola pessoa`);

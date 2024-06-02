@@ -1,3 +1,1 @@
-const person: string = 'Ana'
-
-console.log(person)
+alert(`ola pessoa`)
